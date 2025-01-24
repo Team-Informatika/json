@@ -3,6 +3,12 @@
     "lokasi": {
         "city": "Bandung",
         "country": "Indonesia",
-        "Alamar": "Jl. Sariasih No.54, Sarijadi, Kec. Sukasari, Kota Bandung, Jawa Barat 40151"
+        "Alamat": "Jl. Sariasih No.54, Sarijadi, Kec. Sukasari, Kota Bandung, Jawa Barat 40151"
+    },
+    {
+        "Nama": "Marsya Adinda Isyara",
+        "Kelas": "1C TEKNIK INFORMATIKA",
+        "Hobi": "nangis dan galau",
+        "Umur": "18 tahun"
     }
 }
