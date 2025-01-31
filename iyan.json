@@ -1,0 +1,19 @@
+{
+    "name": "Adryan Nur Arif",
+    "title": "Engineering",
+    "description": "Turning ideas into reality, one line of code at a time.",
+    "about": "I am passionate about web development and application development, creating impactful solutions that merge functionality with design.",
+    "skills": [
+      "Frontend Development (HTML, CSS, JavaScript)",
+      "Backend Development (Node.js, PHP, Python)",
+      "UI/UX Design",
+      "DevOps & Deployment"
+    ],
+    "hourly_rate": "$5 per day",
+    "links": [
+      {"LinkedIn": "https://www.linkedin.com/in/adryan-nur-arif/"},
+      {"GitHub": "https://github.com/iyannn03"},
+      {"Contact Me": "https://api.whatsapp.com/send/?phone=0895619421397&text&type=phone_number&app_absent=0"}
+    ]
+  }
+  
