@@ -1,31 +1,9 @@
 {
-    "name": "Syalwa Aliya Rahmawati",
-    "avatar": "https://t.if.co.id/714240058/image.png",
-    "social_media": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/syalwalyrh/"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/syalwalyrh"
-      },
-      {
-        "platform": "Website",
-        "url": "https://pitipaw.id.biz.id/"
-      }
-    ],
-    "skills": [
-      {
-        "name": "mtk"
-      },
-      {
-        "name": "py"
-      },
-      {
-        "name": "akl"
-      }
-    ],
-    "rate_per_hour": "20K-60K/hour"
+    "nama": "Syalwa Aliya Rahamawati",
+    "status": "Mahasiswa",
+    "contact": {
+      "ig": "syalwalyrh",
+      "email": "syalwalyrh@gmail.com"
+    }
   }
   
