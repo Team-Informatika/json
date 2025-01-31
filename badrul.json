@@ -1,0 +1,31 @@
+{
+    "name": "Zidan Ardiansyah",
+    "job-title": "Web Developer",
+    "quote": "\"We Program, We Develop, We Innovate\"",
+    "contact": {
+      "phone": "+62 856-4038-9741",
+      "email": "cakleghid@gmail.com"
+    },
+    "skills": {
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "hourly-rate": "$5/project"
+    },
+    "social-icons": 
+    [
+      {
+        "platform": "HTML",
+        "url": "https://www.w3schools.com/html/",
+        "icon": "fab fa-html5"
+      },
+      {
+        "platform": "CSS",
+        "url": "https://www.w3schools.com/css/",
+        "icon": "fab fa-css3-alt"
+      },
+      {
+        "platform": "JavaScript",
+        "url": "https://www.w3schools.com/js/",
+        "icon": "fab fa-js"
+      }
+    ]
+  }
