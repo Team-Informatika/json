@@ -1,0 +1,65 @@
+{
+    "universitas": "Universitas Logistik & Bisnis Internasional",
+    "lokasi": {
+        "city": "Bandung",
+        "country": "Indonesia",
+        "alamat": "Jl. Sariasih No.54, Sarijadi, Kec. Sukasari, Kota Bandung, Jawa Barat 40151"
+    },
+    "title": "Apa itu Teknik Informatika?",
+        "content": [
+            {
+                "section": "PENGERTIAN",
+                "description": "Teknik Informatika adalah bidang studi yang mempelajari pengembangan, implementasi, dan pengelolaan sistem berbasis teknologi informasi, termasuk perangkat lunak (software), perangkat keras (hardware), dan jaringan komputer."
+            },
+            {
+                "section": "APA YANG AKAN DIPELAJARI?",
+                "topics": [
+                    {
+                        "topic": "Pemrograman dan Pengembangan Perangkat Lunak",
+                        "details": [
+                            "Belajar bahasa pemrograman seperti Python, Java, C++, JavaScript, dll.",
+                            "Mengembangkan aplikasi desktop, web, mobile, dan sistem lainnya."
+                        ]
+                    },
+                    {
+                        "topic": "Jaringan Komputer dan Keamanan",
+                        "details": [
+                            "Mempelajari cara kerja jaringan komputer, protokol, dan teknologi internet.",
+                            "Mengelola keamanan data dan sistem dari ancaman cyber."
+                        ]
+                    },
+                    {
+                        "topic": "Database dan Manajemen Data",
+                        "details": [
+                            "Mendesain dan mengelola basis data untuk penyimpanan dan analisis data."
+                        ]
+                    },
+                    {
+                        "topic": "Kecerdasan Buatan dan Pembelajaran Mesin",
+                        "details": [
+                            "Mengembangkan sistem pintar yang dapat belajar dan mengambil keputusan secara mandiri."
+                        ]
+                    },
+                    {
+                        "topic": "Sistem Operasi dan Arsitektur Komputer",
+                        "details": [
+                            "Memahami cara kerja perangkat keras dan sistem operasi yang mendasarinya."
+                        ]
+                    },
+                    {
+                        "topic": "Pengembangan Game dan Multimedia",
+                        "details": [
+                            "Mempelajari cara membuat game, animasi, dan aplikasi berbasis multimedia."
+                        ]
+                    },
+                    {
+                        "topic": "Pengelolaan Proyek Teknologi Informasi",
+                        "details": [
+                            "Mengelola proyek IT, dari perencanaan hingga implementasi."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "note": "Teknik Informatika memiliki cakupan luas dan relevan dengan banyak bidang pekerjaan seperti pengembang perangkat lunak, analis data, spesialis keamanan siber, hingga AI engineer. Jika kamu tertarik dengan teknologi dan pemrograman, bidang ini sangat menarik untuk dipelajari! 😊"
+    }
