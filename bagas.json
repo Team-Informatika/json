@@ -3,7 +3,13 @@
     "alt": "Avatar",
     "name": "Bagas Agung Wiyono",
     "occupation": "Newbie Developer",
-    [
+    "value": "$10",
+    "label": "Rate/Hour",
+    "value": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly",
+    "id": "qr",
+    "content": "Loading..."
+}
+[
         {
         "value": "ULBI",
         "label": "University"
@@ -16,11 +22,6 @@
         "value": "Bandung",
         "label": "From"
         },
-        ],
-          "value": "$10",
-          "label": "Rate/Hour",
-          "value": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly",
-          "id": "qr",
-          "content": "Loading..."
-  }
+],
+
   
