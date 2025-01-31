@@ -1,40 +1,38 @@
 {
-    "name": "Bagas Agung Wiyono",
-    "avatar": "https://t.if.co.id/714240042/WhatsApp%20Image%202024-10-31%20at%2006.53.28_69d176c5.jpg",
-    "social_media": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/bagas_ip/"
+    "card": {
+      "avatar": {
+        "src": "https://t.if.co.id/714240042/WhatsApp%20Image%202024-10-31%20at%2006.53.28_69d176c5.jpg",
+        "alt": "Avatar"
       },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/RenzIP"
-      },
-      {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/bagas-agung-w/"
-      },
-      {
-        "platform": "Twitter/X",
-        "url": "https://x.com/RenzRext"
+      "details": {
+        "name": "Bagas Agung Wiyono",
+        "occupation": "Newbie Developer",
+        "about": [
+          {
+            "value": "ULBI",
+            "label": "University"
+          },
+          {
+            "value": "HTML/CSS",
+            "label": "Skill"
+          },
+          {
+            "value": "Bandung",
+            "label": "From"
+          }
+        ],
+        "rate_hour": {
+          "value": "$10",
+          "label": "Rate/Hour"
+        },
+        "skills": {
+          "value": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly"
+        },
+        "qr_box": {
+          "id": "qr",
+          "content": "Loading..."
+        }
       }
-    ],
-    "followers": 10,
-    "skills": [
-      {
-        "name": "HTML5",
-        "level": "65%"
-      },
-      {
-        "name": "CSS3",
-        "level": "40%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "25%"
-      }
-    ],
-    "rate_per_hour": "$10",
-    "description": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly."
+    }
   }
   
