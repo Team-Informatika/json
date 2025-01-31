@@ -1,27 +1,38 @@
 {
-    "src": "https://t.if.co.id/714240042/WhatsApp%20Image%202024-10-31%20at%2006.53.28_69d176c5.jpg",
-    "alt": "Avatar",
-    "name": "Bagas Agung Wiyono",
-    "occupation": "Newbie Developer",
-    "value": "$10",
-    "label": "Rate/Hour",
-    "deskripsi": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly",
-    "id": "qr",
-    "content": "Loading..."
-}
-[
-        {
-        "value": "ULBI",
-        "label": "University"
+    "card": {
+      "avatar": {
+        "src": "https://t.if.co.id/714240042/WhatsApp%20Image%202024-10-31%20at%2006.53.28_69d176c5.jpg",
+        "alt": "Avatar"
+      },
+      "details": {
+        "name": "Bagas Agung Wiyono",
+        "occupation": "Newbie Developer",
+        "about": [
+          {
+            "value": "ULBI",
+            "label": "University"
+          },
+          {
+            "value": "HTML/CSS",
+            "label": "Skill"
+          },
+          {
+            "value": "Bandung",
+            "label": "From"
+          }
+        ],
+        "rate_hour": {
+          "value": "$10",
+          "label": "Rate/Hour"
         },
-        {
-        "value": "HTML/CSS",
-        "label": "Skill"
+        "skills": {
+          "deskripsi": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly"
         },
-        {
-        "value": "Bandung",
-        "label": "From"
-        },
-],
-
+        "qr_box": {
+          "id": "qr",
+          "content": "Loading..."
+        }
+      }
+    }
+  }
   
