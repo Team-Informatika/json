@@ -1,5 +1,19 @@
 {
     "name":"Muhammad Baihaqi Siregar",
-    "age":"18",
-    "skill":"Developer Web"
-}
+    "origin":"Medan",
+    "skill":"Software Engineering",
+    "social media":[
+    {
+        "platform":"Instagram",
+        "url":"https://www.instagram.com/muhammadbaihaqiii__/"
+    },
+    {
+        "platform":"Github",
+        "url":"https://github.com/MuhammadBaihaqi0"
+    }
+    ]
+    }
+    "kontak":{
+        "telephone":"081366299487",
+        "gmail":"baihaqisiregar09@gmail.com"
+    }
