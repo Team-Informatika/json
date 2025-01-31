@@ -1,0 +1,22 @@
+{
+    "nama": "Muhammad Malik Nur",
+    "profesi": "Software Engineering",
+    "kontak": {
+      "telepon1": "0821-2233-9125",
+      "telepon2": "0821-1893-7714",
+      "email": "Kamalputra1177@gmail.com",
+      "kota": "Bandung"
+    },
+    "keahlian": [
+      "Frontend Development (HTML, CSS, JavaScript)",
+      "UI/UX Design",
+      "DevOps & Deployment"
+    ],
+    "tarif_per_jam": "$10 per hour",
+    "media_sosial": {
+      "LinkedIn": "https://www.linkedin.com/in/muhammd-malik-ba4a10342/",
+      "GitHub": "https://github.com/MuhammadMallq",
+      "Instagram": "https://www.instagram.com/mhmmdmallq/"
+    }
+  }
+  
