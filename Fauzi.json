@@ -1,8 +1,27 @@
-{
-    "nama": "Mochammad Fauzi Nur F",
-    "status": "Mahasiswa",
-    "contact": {
-      "ig": "Fauzinrfdlh10_",
-      "email": "nurfadilahmfauzi@gmail.com"
-    }
-  }
+<div class="card">
+        <section id="cardbenar"></section>
+        <div>
+            <img src="gambar/profil.jpeg" alt="Profile Image of Mochammad Fauzi Nur Fadillah">
+        </div>
+        <h1>Mochammad Fauzi Nur Fadillah</h1>
+        <p>@Fauzinrfdlh</p>
+        <p>
+            Website developer and has created the website <a href="https://happyippieecake.shop/" class="font-bold underline text-blue-400">Happyippieecake</a>. I study at  
+            <a href="https://ulbi.ac.id" class="font-bold underline" target="_blank" rel="noopener noreferrer">Universitas Logistik dan Bisnis Internasional</a>.
+        </p>
+        <div>
+            <h2>Skillset</h2>
+            <div>
+                <span class="skill-tag">Python</span>
+                <span class="skill-tag">PHP</span>
+            </div>
+        </div>
+        <div class="rate-section">
+            <h3>Hourly Rate</h3>
+            <p>$3 USD per hour</p>
+        </div>
+        <div class="social-icons">
+            <a href="https://www.instagram.com/fauzinrfdlh10_" class="bi bi-instagram"></a>
+            <a href="https://github.com/" class="bi bi-github"></a>
+            <a href="https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5/" class="bi bi-linkedin"></a>
+        </div>
