@@ -1,0 +1,30 @@
+{
+  "profileCard": {
+    "title": "Zahra Profile Card",
+    "container": {
+      "user": {
+        "avatar": {
+          "src": "https://t.if.co.id/714240046/images/Green%20Gradient%20Minimalist%20Simple%20Instagram%20Profile%20Picture.png",
+          "alt": "zahra",
+          "onclick": "openinfo()"
+        },
+        "info": {
+          "name": "Fatimah Azzahra",
+          "description": "A passionate web developer with experience in building responsive and user-friendly websites.",
+          "location": "Bandung",
+          "skills": ["HTML", "CSS", "JavaScript", "Figma"],
+          "interests": ["Web Development", "UI/UX Design", "Open Source Contribution"],
+          "rate": "$5 per hour",
+          "socialMedia": {
+            "GitHub": "https://github.com/itzzahra16",
+            "LinkedIn": "https://linkedin.com/in/username",
+            "WhatsApp": "https://api.whatsapp.com/send?phone=6285759790334"
+          },
+          "closeIcon": {
+            "onclick": "closeinfo()"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "card": {
+    "avatar": {
+      "src": "gambar/profil.jpeg",
+      "alt": "Profile Image of Mochammad Fauzi Nur Fadillah"
+    },
+    "details": {
+      "name": "Mochammad Fauzi Nur Fadillah",
+      "occupation": "Website Developer",
+      "about": [
+        {
+          "value": "Universitas Logistik dan Bisnis Internasional",
+          "label": "University",
+          "link": "https://ulbi.ac.id"
+        },
+        {
+          "value": "Python, PHP",
+          "label": "Skillset"
+        },
+        {
+          "value": "Happyippieecake",
+          "label": "Website",
+          "link": "https://happyippieecake.shop/"
+        }
+      ],
+      "rate_hour": {
+        "value": "$3",
+        "label": "Rate/Hour"
+      },
+      "skills": {
+        "deskripsi": "Website developer and has created the website Happyippieecake."
+      },
+      "social_icons": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/fauzinrfdlh10_",
+          "icon": "bi bi-instagram"
+        },
+        {
+          "platform": "GitHub",
+          "url": "https://github.com/",
+          "icon": "bi bi-github"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5/",
+          "icon": "bi bi-linkedin"
+        }
+      ],
+      "qr_box": {
+        "id": "qr",
+        "content": "Loading..."
+      }
+    }
+  }
+}

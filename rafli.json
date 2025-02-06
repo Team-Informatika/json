@@ -1,0 +1,34 @@
+{
+    "card": {
+    "profile": {
+        "src": "https://t.if.co.id/714240059/dokja.jpg",
+        "alt": "Foto Profil"
+    },
+    "info": {
+        "name": "Rafli Mochamad Ramadhan",
+        "job": "Newbie Web Developer",
+        "contact": "Email: raflimramadhan.204@gmail.com",
+        "phone": "Phone: (123) 456-7890"
+    },
+     "about": {
+        "me": "About Me",
+        "teks": "I'm a passionate web developer with a love for creating beautiful and functional websites. I enjoy learning new technologies and improving my skills every day.",
+        "rate": "Rate per hour:Rp. 500,00"
+    },
+    "skills": {
+        "skil": "skills",
+        "fab fa-html5": "HTML",
+        "fab fa-css3-alt": "CSS",
+        "fab fa-js-square": "JavaScript",
+        "fab fa-react": "React",
+        "fab fa-node-js": " Node.js"       
+    },
+    "icons": {
+        "id": "so",
+        "id": "tex",
+        "fa-brands fa-instagram": ""
+
+    }
+
+  }
+}

@@ -26,7 +26,7 @@
           "label": "Rate/Hour"
         },
         "skills": {
-          "value": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly"
+          "deskripsi": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly"
         },
         "qr_box": {
           "id": "qr",
