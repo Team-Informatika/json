@@ -4,7 +4,7 @@
     "container": {
       "user": {
         "avatar": {
-          "src": "images/Green Gradient Minimalist Simple Instagram Profile Picture.png",
+          "src": "https://t.if.co.id/714240046/images/Green%20Gradient%20Minimalist%20Simple%20Instagram%20Profile%20Picture.png",
           "alt": "zahra",
           "onclick": "openinfo()"
         },
