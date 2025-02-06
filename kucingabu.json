@@ -1,30 +1,26 @@
 {
-  "kartu": {
-    "src": "https://t.if.co.id/714240033/PPFormal.jpeg",
-    "alt": "PPFormal"
+  "title": "E-Namecard NandaSR",
+  "meta": {
+    "charset": "UTF-8",
+    "viewport": "width=device-width, initial-scale=1.0"
   },
-  "deskripsi": {
-    "nama": "Nanda Septiana Ramadhani",
+  "stylesheets": [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css",
+    "style.css"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "card": {
+    "image": "PPFormal.jpeg",
+    "name": "Nanda Septiana Ramadhani",
     "username": "@KucingAbu",
-    "tentang": "Web Developer Pemula | Mahasiswa | Penjoki Akun Game Hoyoverse",
-    "rate": "$2 USD/week"
-  },
-  "sosial":
-  [
-    {
-      "platform": "whatsapp",
-      "link": "https://wa.me/6285314627451",
-      "icon": "fa-brands fa-whatsapp"
-    },
-    {
-      "platform": "instagram",
-      "link": "https://www.instagram.com/nandasr24/profilecard/?igsh=d2d3YzZ4eW12MGZ0",
-      "icon": "fa-brands fa-instagram"
-    },
-    {
-      "platform": "github",
-      "link": "https://github.com/KucingNanda",
-      "icon": "fa-brands fa-github"
+    "description": "Web Developer Pemula | Mahasiswa | Penjoki Akun Game Hoyoverse",
+    "rate": "$2 USD/week",
+    "social_links": {
+      "whatsapp": "https://wa.me/6285314627451",
+      "instagram": "https://www.instagram.com/nandasr24/profilecard/?igsh=d2d3YzZ4eW12MGZ0",
+      "github": "https://github.com/KucingNanda"
     }
-  ]
+  }
 }
