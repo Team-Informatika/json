@@ -7,18 +7,18 @@
     "social_icons": [
         {
             "platform": "Instagram",
-            "url": "https://www.instagram.com/fauzinrfdlh10_",
-            "icon": "bi bi-instagram"
+            "url": "https://www.instagram.com/rfl_muhamad/",
+            "icon": "fa-brands fa-instagram"
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/",
-            "icon": "bi bi-github"
+            "url": "https://github.com/MuhRifa2024",
+            "icon": "fa-brands fa-github"
         },
         {
-            "platform": "LinkedIn",
-            "url": "https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5/",
-            "icon": "bi bi-linkedin"
+            "platform": "Whatsapp",
+            "url": "https://wa.me/6288218271426/",
+            "icon": "fa-brands fa-whatsapp"
         }
     ]
 }
