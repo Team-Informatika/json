@@ -10,17 +10,20 @@
             {
                 "id": "instagram",
                 "class": "fa-brands fa-instagram",
-                "type": "Instagram"
+                "type": "Instagram",
+                "url": "https://www.instagram.com/rfl_muhamad"
             },
             {
                 "id": "github",
                 "class": "fa-brands fa-github",
-                "type": "GitHub"
+                "type": "GitHub",
+                "url": "https://github.com/MuhRifa2024"
             },
             {
                 "id": "wa",
                 "class": "fa-brands fa-whatsapp",
-                "type": "WhatsApp"
+                "type": "WhatsApp",
+                "url": "https://wa.me/6288218271426"
             }
         ]
     }
