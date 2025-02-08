@@ -1,7 +1,27 @@
 {
-    "Name": "Muhama Rifaidi",
+    "Name": "Muhamad Rifaidi",
     "Foto": "https://t.if.co.id/714240044/ME.jpg",
     "Ug": "@MuhRifa2024",
     "Skill": "Cooking and Cleaning",
-    "Rate": "Rate: $1/hour"
+    "Rate": "Rate: $1/hour",
+    "socialIcons": {
+        "title": "Your Title Here",
+        "icons": [
+            {
+                "id": "instagram",
+                "class": "fa-brands fa-instagram",
+                "type": "Instagram"
+            },
+            {
+                "id": "github",
+                "class": "fa-brands fa-github",
+                "type": "GitHub"
+            },
+            {
+                "id": "wa",
+                "class": "fa-brands fa-whatsapp",
+                "type": "WhatsApp"
+            }
+        ]
+    }
 }
