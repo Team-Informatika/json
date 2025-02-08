@@ -1,8 +1,13 @@
-<div>
-  <h1 id="profile-name">Nama Anda</h1>
-  <img id="profile-image" src="" alt="Profile Image" />
-  <p id="profile-bio">Deskripsi singkat tentang diri Anda.</p>
-  <p id="profile-rate">Tarif: Rp 100.000,-</p>
-  <h2>Keterampilan:</h2>
-  <div id="profile-skills"></div>
-</div>
+{
+  "name": "Nama Anda",
+  "bio": "Deskripsi singkat tentang diri Anda.",
+  "skills": [
+    {"name": "Java", "level": "Intermediate"},
+    {"name": "Greenfoot", "level": "Advanced"},
+    {"name": "HTML & CSS", "level": "Intermediate"},
+    {"name": "JSON", "level": "Beginner"}
+  ],
+  "rate": "Rp 100.000,-",
+  "image": "https://t.if.co.id/714240035-4/POCOYO.jpeg"
+}
+
