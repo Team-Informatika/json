@@ -1,13 +1,13 @@
 [{
     "id": 1,
-    "name": "Waode Nur Aliaw",
+    "name": "Waode Nur Alia",
     "image": "https://t.if.co.id/714240035/POCOYO.jpeg",
-    "bio": "Halo gaisuuu ini alia",
+    "bio": "Hello, I am an informatics engineering student who has the following skills:",
     "skills": [
       {"name": "Java", "level": "Intermediate"},
       {"name": "Greenfoot", "level": "Advanced"},
       {"name": "HTML & CSS", "level": "Intermediate"},
       {"name": "JSON", "level": "Beginner"}
     ],
-    "rate": "Rp 100.000,-"
+    "rate": "$3,-"
   }]
