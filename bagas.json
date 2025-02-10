@@ -22,8 +22,8 @@
           }
         ],
         "rate_hour": {
-          "value": "$10",
-          "label": "Rate/Hour"
+          "rate": "$10",
+          "rate": "Rate/Hour"
         },
         "skills": {
           "deskripsi": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly"
