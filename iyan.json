@@ -1,153 +1,51 @@
 {
-  "body": {
-    "div": {
-      "class": "business-card-horizontal",
-      "children": [
+  "card": {
+    "avatar": {
+      "src": "image/self.jpg",
+      "alt": "Foto profil Adryan Nur Arif"
+    },
+    "details": {
+      "name": "Adryan Nur Arif",
+      "occupation": "Engineering",
+      "about": [
         {
-          "div": {
-            "class": "card-left",
-            "children": [
-              {
-                "div": {
-                  "class": "profile-picture",
-                  "style": "margin-top: 20px;",
-                  "children": [
-                    {
-                      "img": {
-                        "src": "image/self.jpg",
-                        "alt": "Foto profil Adryan Nur Arif",
-                        "id": "profileImage"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "div": {
-                  "class": "quote",
-                  "children": [
-                    {
-                      "p": "\"Turning ideas into reality, one line of code at a time.\""
-                    }
-                  ]
-                }
-              }
-            ]
-          }
+          "value": "I am passionate about web development and application development, creating impactful solutions that merge functionality with design.",
+          "label": "About"
+        }
+      ],
+      "rate_day": {
+        "price": "$5",
+        "rate": "Rate/Day"
+      },
+      "skills": {
+        "description": "Turning ideas into reality, one line of code at a time.",
+        "list": [
+          "Frontend Development (HTML, CSS, JavaScript)",
+          "Backend Development (Node.js, PHP, Python)",
+          "UI/UX Design",
+          "DevOps & Deployment"
+        ]
+      },
+      "social_links": [
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adryan-nur-arif"
         },
         {
-          "div": {
-            "class": "card-right",
-            "children": [
-              {
-                "div": {
-                  "class": "card-header",
-                  "children": [
-                    {
-                      "h1": "Adryan Nur Arif"
-                    },
-                    {
-                      "p": {
-                        "class": "job-title",
-                        "text": "Engineering"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "div": {
-                  "class": "card-body",
-                  "children": [
-                    {
-                      "p": "I am passionate about web development and application development, creating impactful solutions that merge functionality with design."
-                    }
-                  ]
-                }
-              },
-              {
-                "div": {
-                  "class": "skillset",
-                  "children": [
-                    {
-                      "h2": "My Skillset"
-                    },
-                    {
-                      "ul": {
-                        "children": [
-                          { "li": "💻 Frontend Development (HTML, CSS, JavaScript)" },
-                          { "li": "🔧 Backend Development (Node.js, PHP, Python)" },
-                          { "li": "🎨 UI/UX Design" },
-                          { "li": "⚙️ DevOps & Deployment" }
-                        ]
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "div": {
-                  "class": "rate",
-                  "children": [
-                    {
-                      "h2": "Hourly Rate"
-                    },
-                    {
-                      "p": "💵 $5 per day"
-                    }
-                  ]
-                }
-              },
-              {
-                "div": {
-                  "class": "card-footer",
-                  "children": [
-                    {
-                      "a": {
-                        "href": "https://www.linkedin.com/in/adryan-nur-arif",
-                        "target": "_blank",
-                        "rel": "noopener noreferrer",
-                        "class": "social-link",
-                        "text": "LinkedIn"
-                      }
-                    },
-                    {
-                      "a": {
-                        "href": "https://github.com/iyannn03",
-                        "target": "_blank",
-                        "rel": "noopener noreferrer",
-                        "class": "social-link",
-                        "text": "GitHub"
-                      }
-                    },
-                    {
-                      "a": {
-                        "href": "https://wa.me/0895619421397",
-                        "target": "_blank",
-                        "rel": "noopener noreferrer",
-                        "class": "social-link",
-                        "text": "Contact Me"
-                      }
-                    }
-                  ]
-                }
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "divModal": {
-      "class": "modal",
-      "id": "modal",
-      "children": [
+          "platform": "GitHub",
+          "url": "https://github.com/iyannn03"
+        },
         {
-          "img": {
-            "src": "image/self.jpg",
-            "alt": "Foto profil Adryan Nur Arif"
-          }
+          "platform": "Contact Me",
+          "url": "https://wa.me/0895619421397"
         }
       ]
+    }
+  },
+  "modal": {
+    "image": {
+      "src": "image/self.jpg",
+      "alt": "Foto profil Adryan Nur Arif"
     }
   }
 }
