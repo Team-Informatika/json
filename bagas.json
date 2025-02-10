@@ -22,7 +22,7 @@
           }
         ],
         "rate_hour": {
-          "rate": "$10",
+          "price": "$10",
           "rate": "Rate/Hour"
         },
         "skills": {
