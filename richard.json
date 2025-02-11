@@ -1,15 +1,52 @@
 {
-    "title": "Kartu Nama",
-    "profile": {
+    "card": {
+      "avatar": {
+        "src": "logo.png",
+        "alt": "Foto profil Richard Firmansyah"
+      },
+      "details": {
         "name": "Richard Firmansyah",
-        "company": "Joki Legends Pro",
-        "job_title": "Joki Rank Mobile Legends All Rank",
-        "image": "logo.png"
+        "occupation": "Joki Rank Mobile Legends All Rank",
+        "about": [
+          {
+            "value": "Profesional dalam membantu menaikkan rank Mobile Legends dengan cepat dan aman.",
+            "label": "About"
+          }
+        ],
+        "rate_day": {
+          "price": "20K/Match",
+          "rate": "Tarif per pertandingan"
+        },
+        "skills": {
+          "description": "Meningkatkan peringkat dengan gameplay terbaik dan win rate tinggi.",
+          "list": [
+            "Push Rank Cepat & Aman",
+            "Win Rate Tinggi",
+            "Menerima Semua Rank",
+            "Harga Terjangkau"
+          ]
+        },
+        "social_links": [
+          {
+            "platform": "Email",
+            "url": "mailto:richardfirmansyah13@gmail.com"
+          },
+          {
+            "platform": "WhatsApp",
+            "url": "https://wa.me/6212345678"
+          },
+          {
+            "platform": "Alamat",
+            "url": "https://maps.google.com/?q=Jalan+Ciwaruga+No.+12,+Kota+Bandung,+Jawa+Barat"
+          }
+        ]
+      }
     },
-    "contact": {
-        "email": "richardfirmansyah13@gmail.com",
-        "phone": "(+62) 1234-5678",
-        "address": "Jalan Ciwaruga No. 12, Kota Bandung, Jawa Barat",
-        "rate": "20K/Match"
+    "modal": {
+      "image": {
+        "src": "logo.png",
+        "alt": "Foto profil Richard Firmansyah"
+      }
     }
-}
+  }
+  
