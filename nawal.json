@@ -1,3 +1,52 @@
- {
-    
- }
+{
+    "card": {
+      "avatar": {
+        "src": "pp.jpg",
+        "alt": "Foto Profil Nawal Haromaen"
+      },
+      "details": {
+        "name": "Nawal Haromaen",
+        "occupation": "Web Developer",
+        "about": [
+          {
+            "value": "I specialize in front-end web development, creating clean and functional designs using HTML, CSS, and JavaScript.",
+            "label": "About"
+          }
+        ],
+        "rate_day": {
+          "price": "Rp.20k",
+          "rate": "Rate/Hour"
+        },
+        "skills": {
+          "description": "Building interactive and responsive web experiences.",
+          "list": [
+            "Frontend Development (HTML, CSS, JavaScript)"
+          ]
+        },
+        "social_links": [
+          {
+            "platform": "Instagram",
+            "url": "#",
+            "icon": "fa-brands fa-instagram"
+          },
+          {
+            "platform": "WhatsApp",
+            "url": "#",
+            "icon": "fa-brands fa-whatsapp"
+          },
+          {
+            "platform": "GitHub",
+            "url": "#",
+            "icon": "fa-brands fa-github"
+          }
+        ]
+      }
+    },
+    "modal": {
+      "image": {
+        "src": "pp.jpg",
+        "alt": "Foto Profil Nawal Haromaen"
+      }
+    }
+  }
+  
