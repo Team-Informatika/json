@@ -41,11 +41,5 @@
                 }
             ]
         }
-    },
-    "modal": {
-        "image": {
-            "src": "pp.jpg",
-            "alt": "Foto Profil Nawal Haromaen"
-        }
     }
 }
