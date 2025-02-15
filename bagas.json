@@ -27,10 +27,20 @@
         },
         "skills": {
           "deskripsi": "Saya adalah seorang pengembang web dengan pengalaman dalam HTML, CSS, dan JavaScript. Saya memiliki passion untuk menciptakan aplikasi yang responsif dan user-friendly",
-            "social_links": {
-            "github": "https://github.com/RenzIP",
-            "linkedin": "https://www.linkedin.com/in/bagas-agung-w/",
-            "instagram": "https://www.instagram.com/bagas_ip/"
+            "social_links": [
+            {
+                "platform": "GitHub",
+                "url": "https://github.com/RenzIP"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/in/bagas-agung-w/"
+            },
+            {
+                "platform": "Instagram",
+                "url": "https://www.instagram.com/bagas_ip/"
+            }
+          ]
         },
         "contact": "https://wa.me/6285179935117",
         "qr_box": {
@@ -40,5 +50,4 @@
       }
     }
   }
-}
   
