@@ -32,6 +32,7 @@
             "linkedin": "https://linkedin.com/in/yourlinkedin",
             "instagram": "https://instagram.com/yourinstagram"
         },
+        "contact": "https://wa.me/yourwhatsappnumber",
         "qr_box": {
           "id": "qr",
           "content": "Loading..."
