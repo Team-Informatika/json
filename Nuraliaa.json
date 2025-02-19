@@ -1,18 +1,33 @@
-[
-    {
-      "id": 1,
-      "name": "Waode Nur Alia",
-      "image": "https://t.if.co.id/714240035/POCOYO.jpeg",
-      "bio": "Hello, I am an informatics engineering student who has the following skills:",
-      "skills": [
-        {"name": "Java", "level": "Intermediate"},
-        {"name": "Greenfoot", "level": "Advanced"},
-        {"name": "HTML & CSS", "level": "Intermediate"},
-        {"name": "JSON", "level": "Beginner"}
-      ],
-      "rate": "$3,-",
-      "social_links": [
-        {
+{
+    "card": {
+      "avatar": {
+        "src": "https://t.if.co.id/714240035/POCOYO.jpeg",
+        "alt": "Foto profil"
+      },
+      "details": {
+        "name": "Wa Ode Nur Alia",
+        "about": [
+          {
+            "value": "Hello, I am an informatics engineering student who has the following skills",
+            "label": "About"
+          }
+
+        ],
+        "rate_day": {
+          "price": "$3",
+          "rate": "Rate/Day"
+        },
+
+        "skills": {
+          "list": [
+            { "name": "Java", "level": "Intermediate" },
+            { "name": "Greenfoot", "level": "Advanced" },
+            { "name": "HTML & CSS", "level": "Intermediate" },
+            { "name": "JSON", "level": "Beginner" }
+          ]
+        },
+        "social_links": [
+          {
             "platform": "Instagram",
             "url": "https://www.instagram.com/nuraliaaw?igsh=MTJsMzMwZmV2aHAzeg=="
           },
@@ -24,7 +39,7 @@
             "platform": "Contact Me",
             "url": "https://wa.me/085283751548"
           }
-      ]
+        ]
+      }
     }
-  ]
-  
+  }
