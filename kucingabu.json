@@ -11,17 +11,17 @@
     "social_links": [
       {
         "platform": "whatsapp",
-        "logo": "<i class=\"fa-brands fa-whatsapp\" id=\"whatsapp\"></i>",
+        "logo": "fa-brands fa-whatsapp",
         "link": "https://wa.me/6285314627451"
       },
       {
         "platform": "instagram",
-        "logo": "<i class=\"fa-brands fa-instagram\" id=\"instagram\"></i>",
+        "logo": "fa-brands fa-instagram",
         "link": "https://www.instagram.com/nandasr24/profilecard/?igsh=d2d3YzZ4eW12MGZ0"
       },
       {
         "platform": "github",
-        "logo": "<i class=\"fa-brands fa-github\" id=\"github\"></i>",
+        "logo": "fa-brands fa-github",
         "link": "https://github.com/KucingNanda"
       }
     ]
