@@ -1,0 +1,28 @@
+{
+    "profile": {
+        "name": "Zidan Hairra Ramadhan",
+        "title": "Mahasiswa D4 Teknik Informatika - ULBI",
+        "photo": "logo.png"
+    },
+    "contact": {
+        "email": "zidanramadhan950@gmail.com",
+        "phone": "+62 831-1492-5705"
+    },
+    "social_media": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/kaizhar.45",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "platform": "WhatsApp",
+            "url": "https://wa.me/6283114925705?text=Halo%20saya%20tertarik%20dengan%20produk%20Anda",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/kaizhr",
+            "icon": "fab fa-github"
+        }
+    ]
+}
