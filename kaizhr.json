@@ -1,19 +1,30 @@
 {
-    "profile": {
-      "name": "Zidan Hairra Ramadhan",
-      "title": "Mahasiswa D4 Teknik Informatika - ULBI",
-      "photo": "https://t.if.co.id/714240061/logo.png"
-    },
-    "contact": {
-      "email": "zidanramadhan950@gmail.com",
-      "phone": "+62 831-1492-5705"
-    },
-    "social_media": [
-      {
-        "platform": "Instagram",
-        "url": "https://www.instagram.com/kaizhar.45",
-        "icon": "fab fa-instagram"
-      }
-    ]
-  }
-  
+    "Name": "Muhamad Rifaidi",
+    "Foto": "https://t.if.co.id/714240061/logo.png",
+    "Ug": "@zidanramadhan950",
+    "Skill": "mancing emosi",
+    "Rate": "Rate: $1/hour",
+    "socialIcons": {
+        "title": "Contact Me",
+        "icons": [
+            {
+                "id": "instagram",
+                "class": "fa-brands fa-instagram",
+                "type": "Instagram",
+                "url": "https://www.instagram.com/kaizhar.45"
+            },
+            {
+                "id": "github",
+                "class": "fa-brands fa-github",
+                "type": "GitHub",
+                "url": "https://github.com/kaizhr"
+            },
+            {
+                "id": "wa",
+                "class": "fa-brands fa-whatsapp",
+                "type": "WhatsApp",
+                "url": "https://wa.me/6283114925705"
+            }
+        ]
+    }
+}
