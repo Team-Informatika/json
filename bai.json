@@ -1,15 +1,12 @@
 {
     "name":"Muhammad Baihaqi Siregar",
-    "origin":"Medan",
-    "skill":"Software Engineering",
     "src":"https://t.if.co.id/714240024/aw.jpg",
     "alt":"foto profile mhd baihaqi siregar",
-    "about": [
-        {
-          "value": "I am passionate about web development and application development, creating impactful solutions that merge functionality with design.",
-          "label": "About"
-        },
-        "social media",
+    "origin":"Medan",
+    "skill":"Software Engineering",
+    "about": {
+        "title": "Contact Me",
+        "social-media":[
             {
                 "platform":"Instagram",
                 "url":"https://www.instagram.com/muhammadbaihaqiii__/"
@@ -22,6 +19,7 @@
                   "telephone":"081366299487",
                 "gmail":"baihaqisiregar09@gmail.com"
             }
-      ]
+        ]
+        }
   
 }
