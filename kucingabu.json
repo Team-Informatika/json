@@ -1,6 +1,6 @@
 {
   "card": {
-    "image": "PPFormal.jpeg"{
+    "image": {
       "src": "https://t.if.co.id/714240033/PPFormal.jpeg",
       "alt": "PPFormal"
     },
@@ -8,10 +8,22 @@
     "username": "@KucingAbu",
     "description": "Web Developer Pemula | Mahasiswa | Penjoki Akun Game Hoyoverse",
     "rate": "$2 USD/week",
-    "social_links": {
-      "whatsapp": "https://wa.me/6285314627451",
-      "instagram": "https://www.instagram.com/nandasr24/profilecard/?igsh=d2d3YzZ4eW12MGZ0",
-      "github": "https://github.com/KucingNanda"
-    }
+    "social_links": [
+      {
+        "platform": "whatsapp",
+        "logo": "<i class=\"fa-brands fa-whatsapp\" id=\"whatsapp\"></i>",
+        "link": "https://wa.me/6285314627451"
+      },
+      {
+        "platform": "instagram",
+        "logo": "<i class=\"fa-brands fa-instagram\" id=\"instagram\"></i>",
+        "link": "https://www.instagram.com/nandasr24/profilecard/?igsh=d2d3YzZ4eW12MGZ0"
+      },
+      {
+        "platform": "github",
+        "logo": "<i class=\"fa-brands fa-github\" id=\"github\"></i>",
+        "link": "https://github.com/KucingNanda"
+      }
+    ]
   }
 }
