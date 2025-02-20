@@ -1,27 +1,30 @@
 {
-    "name":"Muhammad Baihaqi Siregar",
-    "src":"https://t.if.co.id/714240024/aw.jpg",
-    "alt":"foto profile mhd baihaqi siregar",
-    "origin":"Medan",
-    "skill":"Software Engineering",
-    "about": {
+    "Name": "Mhd baihaqi",
+    "Foto": "https://t.if.co.id/714240024/aw.jpg",
+    "Ug": "MuhammadBaihaqi0",
+    "Skill": "UI&UX",
+    "Rate": "Rate: $1/hour",
+    "socialIcons": {
         "title": "Contact Me",
-        "social-media":[
+        "icons": [
             {
-                "id":"instagram",
+                "id": "instagram",
+                "class": "fa-brands fa-instagram",
                 "type": "Instagram",
-                "url":"https://www.instagram.com/muhammadbaihaqiii__/"
+                "url": "https://www.instagram.com/muhammadbaihaqiii__"
             },
             {
-                "id":"github",
+                "id": "github",
+                "class": "fa-brands fa-github",
                 "type": "GitHub",
-                "url":"https://github.com/MuhammadBaihaqi0"
+                "url": "https://github.com/MuhammadBaihaqi0"
             },
             {
-                  "telephone":"081366299487",
-                "gmail":"baihaqisiregar09@gmail.com"
+                "id": "wa",
+                "class": "fa-brands fa-whatsapp",
+                "type": "WhatsApp",
+                "url": "https://wa.me/6281366299487"
             }
         ]
-        }
-  
+    }
 }
