@@ -1,41 +1,53 @@
 {
     "card": {
       "avatar": {
-        "src": "logo.png",
+        "src": "img.jpg",
         "alt": "Foto Hasan Zubeir Pohan"
       },
       "details": {
         "name": "Hasan Zubeir Pohan",
         "occupation": "Mahasiswa D4-TI | ULBI",
-        "about": [
-          {
-            "value": "Terus belajar, terus berkembang dalam dunia programming.",
-            "label": "About"
-          }
-        ],
+        "about": "Terus belajar, terus berkembang dalam dunia programming.",
         "skills": {
           "description": "My Skill",
           "list": [
-            "video",
+            "Video",
             "Analisis",
             "Kreatif",
-            "Adaptof"
+            "Adaptif"
           ]
+        },
+        "pricing": {
+          "amount": "$5",
+          "duration": "one week"
         },
         "social_links": [
           {
-            "platform": "Email",
-            "url": "mailto:hasanpohan035@gmail.com"
+            "platform": "Instagram",
+            "url": "https://instagram.com/san_knj4d"
           },
           {
             "platform": "WhatsApp",
             "url": "https://wa.me/6282161299141"
           },
           {
+            "platform": "GitHub",
+            "url": "https://github.com/Nogi3201"
+          },
+          {
+            "platform": "Email",
+            "url": "mailto:hasanpohan035@gmail.com"
+          },
+          {
             "platform": "Alamat",
             "url": "Medan, Sumatera Utara"
           }
-        ]
+        ],
+        "qr_code": {
+          "src": "nogi_qrcode.png",
+          "alt": "QR Code"
+        }
       }
     }
-}
+  }
+  
