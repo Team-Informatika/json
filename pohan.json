@@ -9,18 +9,17 @@
             "occupation": "Mahasiswa D4-TI | ULBI",
             "about": "Terus belajar, terus berkembang dalam dunia programming.",
             "skills": {
+                "description": "My Skill",
                 "list": ["Video", "Analisis", "Kreatif", "Adaptif"]
             },
             "pricing": {
                 "amount": "$5",
-                "duration": "One Week"
+                "duration": "one week"
             },
             "social_links": [
-                {"platform": "Instagram", "url": "https://instagram.com/san_knj4d"},
-                {"platform": "WhatsApp", "url": "https://wa.me/6282161299141"},
-                {"platform": "GitHub", "url": "https://github.com/Nogi3201"},
-                {"platform": "Email", "url": "mailto:hasanpohan035@gmail.com"},
-                {"platform": "Alamat", "url": "Medan, Sumatera Utara"}
+                { "platform": "Instagram", "url": "https://instagram.com/san_knj4d" },
+                { "platform": "WhatsApp", "url": "https://wa.me/6282161299141" },
+                { "platform": "GitHub", "url": "https://github.com/Nogi3201" }
             ]
         },
         "qr_code": {
