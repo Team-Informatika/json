@@ -8,11 +8,13 @@
         "title": "Contact Me",
         "social-media":[
             {
-                "platform":"Instagram",
+                "id":"instagram",
+                "type": "Instagram",
                 "url":"https://www.instagram.com/muhammadbaihaqiii__/"
             },
             {
-                "platform":"Github",
+                "id":"github",
+                "type": "GitHub",
                 "url":"https://github.com/MuhammadBaihaqi0"
             },
             {
