@@ -17,13 +17,14 @@
         "rate": "Rate/Day"
       },
       "skills": {
-        "list": [
-          { "name": "Java", "level": "Intermediate" },
-          { "name": "Greenfoot", "level": "Advanced" },
-          { "name": "HTML & CSS", "level": "Intermediate" },
-          { "name": "JSON", "level": "Beginner" }
-        ]
-      },
+           "description": "Turning ideas into reality, one line of code at a time.",
+           "list": [
+             "Frontend Development (intermediate)",
+             "Backend Development (Beginner)",
+             "UI/UX Design (intermediate)",
+             "Design Grapich (intermediate)"
+           ]
+         },
       "social_links": [
         {
           "platform": "Instagram",
