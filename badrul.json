@@ -26,20 +26,18 @@
       },
       "social_links": [
         {
-          "platform": "GitHub",
-          "url": "https://github.com/cakleghid/cakleghid.github.io"
+          "platform": "Email",
+          "url": "cakleghid@gmail.com"
         },
         {
-          "platform": "Contact Me",
-          "url": "https://wa.me/085640389741"
+          "platform": "WhatsApp",
+          "url": "https://wa.me/6285640389741"
+        },
+        {
+          "platform": "Alamat",
+          "url": "Bandung, Jawa Barat"
         }
       ]
-    }
-  },
-  "modal": {
-    "image": {
-      "src": "image.jpg",
-      "alt": "Foto profil Zidan Ardiansyah"
     }
   }
 }
