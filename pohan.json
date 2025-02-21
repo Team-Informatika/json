@@ -21,10 +21,6 @@
                 { "platform": "WhatsApp", "url": "https://wa.me/6282161299141" },
                 { "platform": "GitHub", "url": "https://github.com/Nogi3201" }
             ]
-        },
-        "qr_code": {
-            "src": "nogi_qrcode.png",
-            "alt": "QR Code"
         }
     }
 }
