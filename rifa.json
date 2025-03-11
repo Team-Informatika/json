@@ -8,10 +8,10 @@
         "title": "Contact Me",
         "icons": [
             {
-                "id": "instagram",
-                "class": "fa-brands fa-instagram",
+                "id": "telegram",
+                "class": "fa-brands fa-telegram",
                 "type": "Instagram",
-                "url": "https://www.instagram.com/rfl_muhamad"
+                "url": "https://t.me/st_rfl"
             },
             {
                 "id": "github",
